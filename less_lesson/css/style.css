@@ -1,0 +1,46 @@
+.header{
+	font-size: 20px;
+	margin-bottom: 60px;
+}
+
+.header span{
+	display: block;
+	line-height: 1.5;
+}
+
+.section{
+	
+	padding: 30px 0;
+}
+
+.form-header, .section-header{
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+
+.form{
+	border: 5px solid #2727d9;
+	padding: 35px 20px;
+}
+
+.kek{
+	margin: 10px auto;
+	background-color: #2727d9;
+}
+
+.form input{
+	margin-bottom: 11px;
+}
+
+.featur{
+	margiт: 60px auto;
+}
+
+.featur p{
+	margin-top: 20px;
+}
+
+.video{
+	margin-bottom: 30px;
+}
